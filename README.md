@@ -28,16 +28,10 @@ Currently, I am balancing academics with hands-on development, using projects as
   <img src="https://img.shields.io/badge/Three.js-111?style=for-the-badge&logo=three.js"/>
 </p>
 
- > Experience building responsive layouts, handling DOM-based interactions, and integrating animations for smoother user experiences.
-
-
 ### Backend & Programming
 <p>
   <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js"/>
 </p>
-
-
->  Currently learning backend fundamentals including routing, basic APIs, and understanding client–server communication.
 
 
 ### Tools & Version Control
@@ -47,10 +41,6 @@ Currently, I am balancing academics with hands-on development, using projects as
   <img src="https://img.shields.io/badge/VS%20Code-111?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
-
- > Comfortable with version control workflows, managing repositories, and maintaining clean project structures.
-
-
 ### Design & Creative Software
 <p>
   <img src="https://img.shields.io/badge/Photoshop-111?style=for-the-badge&logo=adobephotoshop"/>
@@ -59,19 +49,10 @@ Currently, I am balancing academics with hands-on development, using projects as
   <img src="https://img.shields.io/badge/Framer-111?style=for-the-badge&logo=framer"/>
 </p>
 
-
- > Used for UI mockups, visual assets, and experimenting with layout and motion before implementation.
-
-
 ### No-Code / Builders
 <p>
   <img src="https://img.shields.io/badge/Wix-111?style=for-the-badge&logo=wix"/>
 </p>
-
-
- > Familiar with rapid website setup and customization using no-code platforms when needed.
-
-
 ---
 
 ## Profiles

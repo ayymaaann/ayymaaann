@@ -26,12 +26,6 @@ Currently, I am balancing academics with hands-on development, using projects as
   <img src="https://img.shields.io/badge/Three.js-111?style=for-the-badge&logo=three.js"/>
 </p>
 
-### Backend & Programming
-<p>
-  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js"/>
-</p>
-
-
 ### Tools & Version Control
 <p>
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git"/>
@@ -63,5 +57,5 @@ Currently, I am balancing academics with hands-on development, using projects as
   <a href="https://x.com/frfrfraymaan"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x"/></a>
   <a href="https://instagram.com/frfraymaan"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
   <a href="https://discord.com/users/frfraymaaan"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"/></a>
-  <a href="mailto:aymaan.work@icloud.com"><img src="https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:aymaanworks@gmail.com"><img src="https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail"/></a>
 </p>

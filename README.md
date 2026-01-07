@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media1.tenor.com/m/S39NSqzqM64AAAAd/esdeekid.gif"  />
-
 ###
 
 I am a 17-year-old student and frontend developer focused on building modern, responsive, and interactive web interfaces.  

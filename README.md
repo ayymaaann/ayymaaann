@@ -9,7 +9,7 @@
 - 👨‍💻 Visit my portfolio website **https://ayymaaann.github.io/**
 
 - 📫 How to reach me **aymaanworks@gmail.com**
-- 
+
  <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ayymaaann&theme=radical" />
 </p>
